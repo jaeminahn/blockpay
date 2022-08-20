@@ -1,7 +1,7 @@
 <?php
     $address = $_GET['address'];
     $price = $_GET['price'];
-    $link = "https://cubedot.kr/qr/buyer.php?address=".$address."&price=".$price
+    $link = "https://cubedot.kr/qr/buyer.php?address=".$address."&price=".$price //change URL
 ?>
 <!DOCTYPE html>
 <head>
